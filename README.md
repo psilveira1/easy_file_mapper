@@ -34,7 +34,7 @@ TARGET_DIRECTORY = r"C:\Users\Name\Documents\MyProject"
 *(Alternatively, you can modify the script to accept command-line arguments).*
 3. **Run the script:**
 ```bash
-python file_mapper.py
+python easy_file_mapper.py
 
 ```
 
